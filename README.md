@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is George Tudor.
 #### I am a Software Developer in San Antonio, Texas!
-![I am a Software Developer in San Antonio, Texas!]
 
 <!--
 **George-Tudor/George-Tudor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
