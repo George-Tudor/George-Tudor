@@ -29,9 +29,9 @@
 <br />
 <br />
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-tudor&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=george-tudor&theme=gruvbox)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-tudor&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-tudor&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=george-tudor&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-tudor&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/AGT9000
 [linkedin]: https://www.linkedin.com/in/alexander-george-tudor/
