@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate with other developers on virtually anything related to Full Stack Web Development
 - 🥅 2022 Goals: Learn new frameworks, and land my first job as a Full Stack Developer
-- ⚡ Fun fact: I love Sci-Fi books and movies, Comics, and Video Games (when I have the time)
+- ♖ Fun facts: I love Sci-Fi, Comics, Video Games, and am an avid [Chess](https://www.chess.com/stats/overview/pulverizerrrrr?) player
 
 ### Connect with me:
 
