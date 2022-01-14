@@ -1,12 +1,12 @@
-# Hi there, I'm George 👋
+# Hello, my name is George 🖖
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AGT9000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGeorge-Tudor&screen_name=AGT9000)
 
-### I'm an up-and-coming Software Developer and recent [Codeup](https://codeup.com/) graduate
+### I'm an up-and-coming Software Developer and recent [Codeup](https://codeup.com/) graduate.
 
-- 🎓 I recently graduated from Codeup! 
-- 📚 Checkout my Capstone project, [Book Alert](https://bookalert.site)!
-- 🌱 I’m currently learning everything 🤣
+- 🎓 I recently graduated from Codeup 
+- 📚 Checkout my Capstone project, [Book Alert](https://bookalert.site)
+- 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate with other developers on virtually anything related to Full Stack Web Development
 - 🥅 2022 Goals: Learn new frameworks, and land my first job as a Full Stack Developer
 - ⚡ Fun fact: I love Sci-Fi books and movies, Comics, and Video Games (when I have the time)
