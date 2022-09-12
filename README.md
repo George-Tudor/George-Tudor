@@ -2,23 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AGT9000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGeorge-Tudor&screen_name=AGT9000)
 
-### I'm an up-and-coming Software Developer and recent [Codeup](https://codeup.com/) graduate.
+### I'm an up-and-coming Software Developer
 
-- 🎓 I recently graduated from Codeup 
-- 📚 Checkout my Capstone project, [Book Alert](https://bookalert.site)
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate with other developers on virtually anything related to Full Stack Web Development
-- 🥅 2022 Goals: Learn new frameworks, and land my first job as a Full Stack Developer
-- ♖ Fun facts: I love Sci-Fi, Comics, Video Games, and am an avid [Chess](https://www.chess.com/stats/overview/pulverizerrrrr?) player
-
-### Connect with me:
-
-[<img alt="AGT9000 | Twitter" width="40px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
-[<img alt="GeorgeTudor | LinkedIn" width="40px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
-[<img alt="Email | Email"  width="40px" src="https://www.svgrepo.com/show/7012/mailbox.svg" />][email]
-
-[comment]: <> (<a href="mailto:alexander.george.tudor@gmail.com?"><img width="40px" src="https://www.svgrepo.com/show/7012/mailbox.svg"/></a>)
-
+- 🥅 2022 Goals: Learn new frameworks
+- ♖ Fun facts: I love Sci-Fi, Comics, Video Games
 
 <br />
 
